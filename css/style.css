@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Antic+Didone&family=Antic+Slab&family=Open+Sans:ital,wdth,wght@0,75..100,300..800;1,75..100,300..800&family=Scope+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 /*******************************************************************************
     GENERAL STYLING
@@ -153,8 +153,9 @@ form .hidden-anchor {
 
 form h3 {
     color: var(---505050);
-    font-family: "Antic Slab", serif;
+    font-family: "Arvo", serif;
     font-size: 32px;
+    font-weight: 300;
 }
 
 form p {
@@ -256,7 +257,7 @@ footer .top .logos div {
 }
 
 footer .top .logos div .tm {
-    font-family: "Scope One", serif;
+    font-family: "Arvo", serif;
     font-size: 27px;
     font-weight: 300;
 }
